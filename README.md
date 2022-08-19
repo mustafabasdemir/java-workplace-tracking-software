@@ -5,7 +5,7 @@
 - Proje Görselleri
 
 ## Proje Amacı
-Vaillant il bayisinde kullanılması için yapılmıştır. Sistem masaüstü ve mobil uygulamaya sahiptir. Sistem içerisinde yeni proje açma ve var olan projelerin takibini sağlama, personel maliyetlerini hesaplama ve görüntüleme, Araçların fatura ve giderlerini görüntüleme, Depo stok durumlarının kontrolünü sağlama, Aylık gelir ve gider takibinin yapılmasına olanak sağlar. 
+Sistem masaüstü ve mobil uygulamaya sahiptir. Sistem içerisinde yeni proje açma ve var olan projelerin takibini sağlama, personel maliyetlerini hesaplama ve görüntüleme, Araçların fatura ve giderlerini görüntüleme, Depo stok durumlarının kontrolünü sağlama, Aylık gelir ve gider takibinin yapılmasına olanak sağlar. 
 
 
 ### - Proje Görselleri
